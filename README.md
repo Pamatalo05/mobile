@@ -1,2 +1,2 @@
 # mobile
-Aplicacion mobile
+Aplicacion Hibrida movil 
